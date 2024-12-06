@@ -167,7 +167,97 @@ plt.scatter(2011, "Brazil", s=100, c='red', edgecolors="black", label='Brazil')
 # Annotate the point to specify it was a single visit
 plt.annotate('1', xy=(2011, "Brazil"), xytext=(2012, "Brazil"),
              arrowprops=dict(facecolor='black', shrink=0.05))
+#===================================================================================================================================================#
+
+#The_year_2012
+
+# Add a specific point for your presence in USA in 2012
+plt.scatter(2012, "USA", s=100, c='red', edgecolors="black", label='USA')
+
+# Annotate the point to specify it was a single visit
+plt.annotate('1', xy=(2012, "USA"), xytext=(2013, "USA"),
+             arrowprops=dict(facecolor='black', shrink=0.05))
 #------------------------------------------------------------------------
+# Add a specific point for your presence in United Kingdom in 2012
+plt.scatter(2012, "United Kingdom", s=100, c='red', edgecolors="black", label='United Kingdom')
+
+# Annotate the point to specify it was a single visit
+plt.annotate('1', xy=(2012, "United Kingdom"), xytext=(2013, "United Kingdom"),
+             arrowprops=dict(facecolor='black', shrink=0.05))
+#------------------------------------------------------------------------
+# Add a specific point for your presence in Philippines in 2012
+plt.scatter(2012, "Philippines", s=100, c='red', edgecolors="black", label='Philippines')
+
+# Annotate the point to specify it was a single visit
+plt.annotate('1', xy=(2012, "Philippines"), xytext=(2013, "Philippines"),
+             arrowprops=dict(facecolor='black', shrink=0.05))
+#------------------------------------------------------------------------
+# Add a specific point for your presence in Netherlands in 2012
+plt.scatter(2012, "Netherlands", s=100, c='red', edgecolors="black", label='Netherlands')
+
+# Annotate the point to specify it was a single visit
+plt.annotate('1', xy=(2012, "Netherlands"), xytext=(2013, "Netherlands"),
+             arrowprops=dict(facecolor='black', shrink=0.05))
+#------------------------------------------------------------------------
+# Add a specific point for your presence in Italy in 2012
+plt.scatter(2012, "Italy", s=100, c='red', edgecolors="black", label='Italy')
+
+# Annotate the point to specify it was a single visit
+plt.annotate('1', xy=(2012, "Italy"), xytext=(2013, "Italy"),
+             arrowprops=dict(facecolor='black', shrink=0.05))
+#------------------------------------------------------------------------
+# Add a specific point for your presence in Italy in 2012
+plt.scatter(2012, "Italy", s=100, c='red', edgecolors="black", label='Italy')
+
+# Annotate the point to specify it was a single visit
+plt.annotate('1', xy=(2012, "Italy"), xytext=(2013, "Italy"),
+             arrowprops=dict(facecolor='black', shrink=0.05))
+#------------------------------------------------------------------------
+# Add a specific point for your presence in Germany in 2012
+plt.scatter(2012, "Germany", s=100, c='red', edgecolors="black", label='Germany')
+
+# Annotate the point to specify it was a single visit
+plt.annotate('1', xy=(2012, "Germany"), xytext=(2013, "Germany"),
+             arrowprops=dict(facecolor='black', shrink=0.05))
+#------------------------------------------------------------------------
+# Add a specific point for your presence in France in 2012
+plt.scatter(2012, "France", s=100, c='red', edgecolors="black", label='France')
+
+# Annotate the point to specify it was a single visit
+plt.annotate('1', xy=(2012, "France"), xytext=(2013, "France"),
+             arrowprops=dict(facecolor='black', shrink=0.05))
+#------------------------------------------------------------------------
+# Add a specific point for your presence in Ecuador in 2012
+plt.scatter(2012, "Ecuador", s=100, c='red', edgecolors="black", label='Ecuador')
+
+# Annotate the point to specify it was a single visit
+plt.annotate('1', xy=(2012, "Ecuador"), xytext=(2013, "Ecuador"),
+             arrowprops=dict(facecolor='black', shrink=0.05))
+#------------------------------------------------------------------------
+# Add a specific point for your presence in Costa Rica in 2012
+plt.scatter(2012, "Costa Rica", s=100, c='red', edgecolors="black", label='Costa Rica')
+
+# Annotate the point to specify it was a single visit
+plt.annotate('2', xy=(2012, "Costa Rica"), xytext=(2013, "Costa Rica"),
+             arrowprops=dict(facecolor='black', shrink=0.05))
+#------------------------------------------------------------------------
+# Add a specific point for your presence in Costa Rica in 2012
+plt.scatter(2012, "Costa Rica", s=100, c='red', edgecolors="black", label='Costa Rica')
+
+# Annotate the point to specify it was a single visit
+plt.annotate('2', xy=(2012, "Costa Rica"), xytext=(2013, "Costa Rica"),
+             arrowprops=dict(facecolor='black', shrink=0.05))
+#------------------------------------------------------------------------
+# Add a specific point for your presence in China in 2012
+plt.scatter(2012, "China", s=100, c='red', edgecolors="black", label='China')
+
+# Annotate the point to specify it was a single visit
+plt.annotate('1', xy=(2012, "China"), xytext=(2013, "China"),
+             arrowprops=dict(facecolor='black', shrink=0.05))
+
+#===================================================================================================================================================#
+
+
 
 
 # Labeling
