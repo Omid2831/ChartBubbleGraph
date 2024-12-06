@@ -145,6 +145,30 @@ plt.annotate('1', xy=(2010, "Colombia"), xytext=(2011, "Colombia"),
              arrowprops=dict(facecolor='black', shrink=0.05))
 #===================================================================================================================================================#
 
+#The_year_2011
+
+# Add a specific point for your presence in USA in 2011
+plt.scatter(2011, "USA", s=100, c='red', edgecolors="black", label='USA')
+
+# Annotate the point to specify it was a single visit
+plt.annotate('1', xy=(2011, "USA"), xytext=(2012, "USA"),
+             arrowprops=dict(facecolor='black', shrink=0.05))
+#------------------------------------------------------------------------
+# Add a specific point for your presence in France in 2011
+plt.scatter(2011, "France", s=100, c='red', edgecolors="black", label='France')
+
+# Annotate the point to specify it was a single visit
+plt.annotate('1', xy=(2011, "France"), xytext=(2012, "France"),
+             arrowprops=dict(facecolor='black', shrink=0.05))
+#------------------------------------------------------------------------
+# Add a specific point for your presence in Brazil in 2011
+plt.scatter(2011, "Brazil", s=100, c='red', edgecolors="black", label='Brazil')
+
+# Annotate the point to specify it was a single visit
+plt.annotate('1', xy=(2011, "Brazil"), xytext=(2012, "Brazil"),
+             arrowprops=dict(facecolor='black', shrink=0.05))
+#------------------------------------------------------------------------
+
 
 # Labeling
 plt.title("Number of Talks by Country and Year", fontsize=25)
