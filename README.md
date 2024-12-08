@@ -52,6 +52,19 @@ matplotlib
 numpy
 pandas
 ```
+Running the Script
+1.Clone the repository:
+```bash 
+git clone https://github.com/Omid2831/ChartBubbleGraph.git
+```
+2. Navigate into the project directory:
+```bash 
+cd ChartBubbleGraph
+```
+3. Run the Python script to generate the bubble chart:
+```bash 
+python bubblechart.py
+```
 
 ## 📂 File Structure 🛠️
 
