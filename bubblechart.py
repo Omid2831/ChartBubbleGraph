@@ -1063,6 +1063,99 @@ plt.annotate(str(value), xy=(2022, "Ecuador"), xytext=(2022, "Ecuador"),
              )
 #===================================================================================================================================================#
 
+#The_year_2023
+
+# Example value to represent in the bubble
+value = 1
+
+# Scale the size of the bubble (use a multiplier to make it visually clear)
+bubble_size = value * 550  # Adjust the multiplier as needed
+# Add a specific point for your presence in USA in 2023
+plt.scatter(2023, "USA", s=bubble_size, c='red', edgecolors="black")
+
+# Annotate the point to specify it was a single visit
+plt.annotate(str(value), xy=(2023, "USA"), xytext=(2023, "USA"),
+             )
+#------------------------------------------------------------------------
+
+# Example value to represent in the bubble
+value = 1
+
+# Scale the size of the bubble (use a multiplier to make it visually clear)
+bubble_size = value * 550  # Adjust the multiplier as needed
+# Add a specific point for your presence in Netherlands in 2023
+plt.scatter(2023, "Netherlands", s=bubble_size, c='red', edgecolors="black")
+
+# Annotate the point to specify it was a single visit
+plt.annotate(str(value), xy=(2023, "Netherlands"), xytext=(2023, "Netherlands"),
+             )
+#------------------------------------------------------------------------
+
+# Example value to represent in the bubble
+value = 3
+
+# Scale the size of the bubble (use a multiplier to make it visually clear)
+bubble_size = value * 550  # Adjust the multiplier as needed
+# Add a specific point for your presence in USA in 2023
+plt.scatter(2023, "USA", s=bubble_size, c='red', edgecolors="black")
+
+# Annotate the point to specify it was a single visit
+plt.annotate(str(value), xy=(2023, "USA"), xytext=(2023, "USA"),
+             )
+#------------------------------------------------------------------------
+
+# Example value to represent in the bubble
+value = 2
+
+# Scale the size of the bubble (use a multiplier to make it visually clear)
+bubble_size = value * 550  # Adjust the multiplier as needed
+# Add a specific point for your presence in France in 2023
+plt.scatter(2023, "France", s=bubble_size, c='red', edgecolors="black")
+
+# Annotate the point to specify it was a single visit
+plt.annotate(str(value), xy=(2023, "France"), xytext=(2023, "France"),
+             )
+#------------------------------------------------------------------------
+
+# Example value to represent in the bubble
+value = 1
+
+# Scale the size of the bubble (use a multiplier to make it visually clear)
+bubble_size = value * 550  # Adjust the multiplier as needed
+# Add a specific point for your presence in Ecuador in 2023
+plt.scatter(2023, "Ecuador", s=bubble_size, c='red', edgecolors="black")
+
+# Annotate the point to specify it was a single visit
+plt.annotate(str(value), xy=(2023, "Ecuador"), xytext=(2023, "Ecuador"),
+             )
+#------------------------------------------------------------------------
+
+# Example value to represent in the bubble
+value = 1
+
+# Scale the size of the bubble (use a multiplier to make it visually clear)
+bubble_size = value * 550  # Adjust the multiplier as needed
+# Add a specific point for your presence in Colombia in 2023
+plt.scatter(2023, "Colombia", s=bubble_size, c='red', edgecolors="black")
+
+# Annotate the point to specify it was a single visit
+plt.annotate(str(value), xy=(2023, "Colombia"), xytext=(2023, "Colombia"),
+             )
+#------------------------------------------------------------------------
+
+# Example value to represent in the bubble
+value = 1
+
+# Scale the size of the bubble (use a multiplier to make it visually clear)
+bubble_size = value * 550  # Adjust the multiplier as needed
+# Add a specific point for your presence in Belgium in 2023
+plt.scatter(2023, "Belgium", s=bubble_size, c='red', edgecolors="black")
+
+# Annotate the point to specify it was a single visit
+plt.annotate(str(value), xy=(2023, "Belgium"), xytext=(2023, "Belgium"),
+             )
+
+#===================================================================================================================================================#
 
 
 
