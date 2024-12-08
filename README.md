@@ -83,6 +83,8 @@ python bubblechart.py
    └── demo_video.mp4          # Demo video showing the chart generation process
 </pre>
 
-#Collaboration & Improvements🤝 
-I just wanted to let you know that this project is open for further collaboration. If you have ideas on improving the visualization, adding new features, or any suggestions, feel free to fork the repository or submit a pull request.
+Collaboration & Improvements🤝 
+
+I just wanted to let you know that this project is open for further collaboration. 
+If you have ideas on improving the visualization, adding new features, or any suggestions, feel free to fork the repository or submit a pull request.
 Let’s make this project even better together! 🚀
