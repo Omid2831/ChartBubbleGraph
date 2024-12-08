@@ -151,26 +151,42 @@ plt.annotate('1', xy=(2010, "Colombia"), xytext=(2011, "Colombia"),
 
 #The_year_2011
 
+# Example value to represent in the bubble
+value = 1
+
+# Scale the size of the bubble (use a multiplier to make it visually clear)
+bubble_size = value * 550  # Adjust the multiplier as needed
 # Add a specific point for your presence in USA in 2011
-plt.scatter(2011, "USA", s=100, c='red', edgecolors="black", label='USA')
+plt.scatter(2011, "USA", s=bubble_size, c='red', edgecolors="black", label='USA')
 
 # Annotate the point to specify it was a single visit
-plt.annotate('1', xy=(2011, "USA"), xytext=(2012, "USA"),
-             arrowprops=dict(facecolor='black', shrink=0.05))
+plt.annotate(str(value), xy=(2011, "USA"), xytext=(2011, "USA"),
+             )
 #------------------------------------------------------------------------
+
+# Example value to represent in the bubble
+value = 1
+
+# Scale the size of the bubble (use a multiplier to make it visually clear)
+bubble_size = value * 550  # Adjust the multiplier as needed
 # Add a specific point for your presence in France in 2011
-plt.scatter(2011, "France", s=100, c='red', edgecolors="black", label='France')
+plt.scatter(2011, "France", s=bubble_size, c='red', edgecolors="black", label='France')
 
 # Annotate the point to specify it was a single visit
-plt.annotate('1', xy=(2011, "France"), xytext=(2012, "France"),
-             arrowprops=dict(facecolor='black', shrink=0.05))
+plt.annotate(str(value), xy=(2011, "France"), xytext=(2011, "France"),
+             )
 #------------------------------------------------------------------------
+# Example value to represent in the bubble
+value = 1
+
+# Scale the size of the bubble (use a multiplier to make it visually clear)
+bubble_size = value * 550  # Adjust the multiplier as needed
 # Add a specific point for your presence in Brazil in 2011
-plt.scatter(2011, "Brazil", s=100, c='red', edgecolors="black", label='Brazil')
+plt.scatter(2011, "Brazil", s=bubble_size, c='red', edgecolors="black", label='Brazil')
 
 # Annotate the point to specify it was a single visit
-plt.annotate('1', xy=(2011, "Brazil"), xytext=(2012, "Brazil"),
-             arrowprops=dict(facecolor='black', shrink=0.05))
+plt.annotate(str(value), xy=(2011, "Brazil"), xytext=(2011, "Brazil"),
+             )
 #===================================================================================================================================================#
 
 #The_year_2012
@@ -180,7 +196,7 @@ value = 1
 
 # Scale the size of the bubble (use a multiplier to make it visually clear)
 bubble_size = value * 550  # Adjust the multiplier as needed
-# Add a specific point for your presence in USA in 2012
+# Add a specific point for your presence in Brazil in 2012
 plt.scatter(2012, "USA", s=bubble_size, c='red', edgecolors="black", label='USA')
 
 # Annotate the point to specify it was a single visit
