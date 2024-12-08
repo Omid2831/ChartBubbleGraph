@@ -52,16 +52,21 @@ matplotlib
 numpy
 pandas
 ```
+
 Running the Script
-1.Clone the repository:
+
+1.Open Terminal:
+On Windows, open the terminal by searching for CMD or PowerShell in the Start menu.
+
+2.Clone the repository:
 ```bash 
 git clone https://github.com/Omid2831/ChartBubbleGraph.git
 ```
-2. Navigate into the project directory:
+3. Navigate into the project directory:
 ```bash 
 cd ChartBubbleGraph
 ```
-3. Run the Python script to generate the bubble chart:
+4. Run the Python script to generate the bubble chart:
 ```bash 
 python bubblechart.py
 ```
