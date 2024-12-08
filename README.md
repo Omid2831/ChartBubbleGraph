@@ -11,7 +11,8 @@ This Python project generates a **bubble chart** to visualize the number of talk
 
 ## Demo
 
-![Bubble Chart Example]()
+![Bubble Chart Example](![image](https://github.com/user-attachments/assets/e1ae62fe-0992-436d-8d96-a8f620b5b052)
+)
 
 In this demo, the chart shows example data with randomly assigned years, countries, and talk counts.
 
