@@ -415,11 +415,11 @@ value = 1
 
 # Scale the size of the bubble (use a multiplier to make it visually clear)
 bubble_size = value * 550  # Adjust the multiplier as needed
-# Add a specific point for your presence in Sangapore in 2013
-plt.scatter(2013, "Sangapore", s=bubble_size, c='red', edgecolors="black")
+# Add a specific point for your presence in Singapore in 2013
+plt.scatter(2013, "Singapore", s=bubble_size, c='red', edgecolors="black")
 
 # Annotate the point to specify it was a single visit
-plt.annotate(str(value), xy=(2013, "Sangapore"), xytext=(2013, "Sangapore"),
+plt.annotate(str(value), xy=(2013, "Singapore"), xytext=(2013, "Singapore"),
              )
 #------------------------------------------------------------------------
 
@@ -962,7 +962,7 @@ plt.annotate(str(value), xy=(2020, "Panama"), xytext=(2020, "Panama"),
 #------------------------------------------------------------------------
 
 # Example value to represent in the bubble
-value = 3
+value = 1
 
 # Scale the size of the bubble (use a multiplier to make it visually clear)
 bubble_size = value * 550  # Adjust the multiplier as needed
@@ -1004,6 +1004,68 @@ plt.annotate(str(value), xy=(2021, "Germany"), xytext=(2021, "Germany"),
              )
 
 #===================================================================================================================================================#
+
+#The_year_2022
+
+# Example value to represent in the bubble
+value = 1
+
+# Scale the size of the bubble (use a multiplier to make it visually clear)
+bubble_size = value * 550  # Adjust the multiplier as needed
+# Add a specific point for your presence in Tanzania in 2022
+plt.scatter(2022, "Tanzania", s=bubble_size, c='red', edgecolors="black")
+
+# Annotate the point to specify it was a single visit
+plt.annotate(str(value), xy=(2022, "Tanzania"), xytext=(2022, "Tanzania"),
+             )
+
+#------------------------------------------------------------------------
+
+# Example value to represent in the bubble
+value = 3
+
+# Scale the size of the bubble (use a multiplier to make it visually clear)
+bubble_size = value * 550  # Adjust the multiplier as needed
+# Add a specific point for your presence in Netherlands in 2022
+plt.scatter(2022, "Netherlands", s=bubble_size, c='red', edgecolors="black")
+
+# Annotate the point to specify it was a single visit
+plt.annotate(str(value), xy=(2022, "Netherlands"), xytext=(2022, "Netherlands"),
+             )
+
+#------------------------------------------------------------------------
+
+# Example value to represent in the bubble
+value = 1
+
+# Scale the size of the bubble (use a multiplier to make it visually clear)
+bubble_size = value * 550  # Adjust the multiplier as needed
+# Add a specific point for your presence in Germany in 2022
+plt.scatter(2022, "Germany", s=bubble_size, c='red', edgecolors="black")
+
+# Annotate the point to specify it was a single visit
+plt.annotate(str(value), xy=(2022, "Germany"), xytext=(2022, "Germany"),
+             )
+
+#------------------------------------------------------------------------
+
+# Example value to represent in the bubble
+value = 1
+
+
+# Scale the size of the bubble (use a multiplier to make it visually clear)
+bubble_size = value * 550  # Adjust the multiplier as needed
+# Add a specific point for your presence in Ecuador in 2022
+plt.scatter(2022, "Ecuador", s=bubble_size, c='red', edgecolors="black")
+
+# Annotate the point to specify it was a single visit
+plt.annotate(str(value), xy=(2022, "Ecuador"), xytext=(2022, "Ecuador"),
+             )
+#===================================================================================================================================================#
+
+
+
+
 
 
 
