@@ -53,7 +53,7 @@ numpy
 pandas
 ```
 
-Running the Script
+## Running the Script
 
 1.Open Terminal:
 On Windows, open the terminal by searching for CMD or PowerShell in the Start menu.
