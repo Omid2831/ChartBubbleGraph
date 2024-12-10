@@ -5,9 +5,7 @@ This is a Python-based implementation of a Bubble Chart visualization. It uses `
 ## Features
 
 - **Dynamic Bubble Chart**: Visualizes the number of talks per country and year.
-- **Customizable Design**: Easily adjust colors, bubble sizes, and the dataset.
-- **Interactive Demo**: Modify the parameters to see the changes in real time.
-- **High Contrast**: Includes a variety of visually distinct colors for better readability.
+
 
 ## Demo
 
