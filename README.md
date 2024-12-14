@@ -88,7 +88,9 @@ If you need further assistance or have other questions, please ask! 😊
    │   └── BubbleGraph_Chart.png  # Screenshot of the bubble chart
    ├── requirements.txt        # List of required libraries 
    ├── README.md               # Documentation file for the project
+   ├── bubblechart.zip         # This is the run application IRL
    └── demo_video.mp4          # Demo video showing the chart generation process
+   
 </pre>
 
 ## Collaboration & Improvements🤝 
