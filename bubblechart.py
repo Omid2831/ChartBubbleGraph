@@ -1,7 +1,29 @@
+import tkinter as Tk
+from tkinter import filedialog
 import pandas as pd
 import matplotlib.pyplot as plt
 import numpy as np
 import matplotlib.pyplot as plt
+
+#on work
+# Function to open file dialog and load Excel files
+#def load_excel_file():
+   # Create a Tkinter root window and hide it 
+#    root = Tk.Tk()
+#    root.withdraw()
+
+    # Open file dialog to select Excel files
+#    file_paths = filedialog.askopenfilenames( title="Select Excel Files", filetypes=[("Excel files", "*.xlsx *.xls")])
+    
+    # Process each selected file
+ #   for file_path in file_paths:
+  #      df = pd.read_excel(file_path)
+   #     print(f"Loaded {file_path}")
+  #      print(df.head())  # Display the first few rows of the dataframe
+
+# Call the function to load Excel files
+#load_excel_file()
+
 
 # List of countries
 countries = [
