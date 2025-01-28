@@ -1,13 +1,11 @@
 ## Bubble Chart Application 📊
 ---
-This is a Python-based implementation of a Bubble Chart visualization. It uses `matplotlib`, `pandas` and `numpy` to generate a bubble chart based on the number of talks by country and year.
+This is a Python-based implementation of a Bubble Chart visualization. It uses `matplotlib`, `pandas`, and `numpy` to generate a bubble chart based on the number of talks by country and year.
 
 ## Features
 
 - **Dynamic Bubble Chart**: Visualizes the number of talks per country and year.
-- **Customizable Design**: Easily adjust colors, bubble sizes, and the dataset.
-- **Interactive Demo**: Modify the parameters to see the changes in real time.
-- **High Contrast**: Includes a variety of visually distinct colors for better readability.
+
 
 ## Demo
 
@@ -27,7 +25,7 @@ To install Python, download the latest version from the [official Python website
 ```bash
 python --version
 ```
-2.Git 
+2. Git 
 You'll also need [Git](https://git-scm.com/downloads) installed to clone the repository. You can verify if Git is installed by running:
 ```bash
 git --version
@@ -55,10 +53,10 @@ pandas
 
 ## Running the Script
 
-1.Open Terminal:
+1. Open Terminal:
 On Windows, open the terminal by searching for CMD or PowerShell in the Start menu.
 
-2.Clone the repository:
+2. Clone the repository:
 ```bash 
 git clone https://github.com/Omid2831/ChartBubbleGraph.git
 ```
@@ -71,6 +69,16 @@ cd ChartBubbleGraph
 python bubblechart.py
 ```
 
+## Alternative Way to Run the Application:
+
+🚀 download the file and open it:
+```
+bubblechart.exe
+```
+Enjoy! 🎉
+If you need further assistance or have other questions, please ask! 😊
+
+
 ## 📂 File Structure 🛠️
 
 <pre>
@@ -80,7 +88,9 @@ python bubblechart.py
    │   └── BubbleGraph_Chart.png  # Screenshot of the bubble chart
    ├── requirements.txt        # List of required libraries 
    ├── README.md               # Documentation file for the project
+   ├── bubblechart.zip         # This is the run application IRL
    └── demo_video.mp4          # Demo video showing the chart generation process
+   
 </pre>
 
 ## Collaboration & Improvements🤝 

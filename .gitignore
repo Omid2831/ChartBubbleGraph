@@ -1,2 +1,5 @@
 # files hidden 
 /Gert_data.xlsx
+build/
+dist/
+bubblechart.spec
